@@ -1,0 +1,44 @@
+# Stock Market Fundamentals — Summary
+
+## 1. What Is the Stock Market?
+The stock market is a place where investors buy and sell shares of listed companies. It helps companies raise capital and allows investors to participate in business ownership.
+
+## 2. NSE and BSE
+NSE (National Stock Exchange) and BSE (BSE Limited) are major stock exchanges in India. They provide electronic platforms for trading securities.
+
+## 3. Nifty and Sensex
+Nifty 50 tracks 50 major companies listed on the NSE. The Sensex tracks 30 major companies listed on the BSE. Both indices help measure overall market performance.
+
+## 4. IPO and SME IPO
+An Initial Public Offering (IPO) is when a company offers its shares to the public for the first time. An SME IPO is designed for eligible small and medium-sized enterprises under specific exchange requirements.
+
+## 5. Market Capitalization
+Market capitalization is the total market value of a company's outstanding shares.
+
+Formula: Market Capitalization = Share Price × Outstanding Shares.
+
+## 6. PE Ratio, PB Ratio, and EPS
+- PE Ratio: Share price divided by earnings per share (EPS).
+- PB Ratio: Share price divided by book value per share.
+- EPS: A company's earnings attributable to each outstanding share, calculated using the applicable weighted-average share count.
+
+These measures help analysts evaluate a company's valuation and financial performance.
+
+## 7. Dividend, Bonus, and Stock Split
+A dividend is a distribution of profits to shareholders, subject to company decisions and applicable rules. Bonus shares are additional shares issued to existing shareholders. A stock split increases the number of shares and reduces the face value per share proportionately; by itself, it does not increase the investor's total investment value.
+
+## 8. Trading Volume
+Trading volume is the number of shares traded during a specified period. It helps analysts understand trading activity and market participation.
+
+## 9. Financial Statements
+- Balance Sheet: Shows assets, liabilities, and equity at a particular date.
+- Profit and Loss Statement: Shows income, expenses, and profit or loss over a period.
+- Cash Flow Statement: Shows cash inflows and outflows from operating, investing, and financing activities.
+
+## 10. Basic Financial Ratios
+Financial ratios help assess profitability, liquidity, efficiency, and financial risk. Examples include return on equity (ROE), return on assets (ROA), and debt-to-equity ratio. Banks require additional sector-specific measures, such as net interest margin (NIM), gross and net non-performing assets (GNPA/NNPA), and capital adequacy.
+
+## Conclusion
+Stock market knowledge helps data analysts interpret financial data, understand market movements, compare companies, and prepare meaningful business reports. Financial analysis supports informed decisions but does not guarantee future performance.
+
+Purpose: Educational use only. This document is not investment advice.
