@@ -1,0 +1,56 @@
+# HDFC Bank — Financial Statement Analysis
+
+**Company:** HDFC Bank Limited  
+**Financial Year:** 2025–26  
+**Purpose:** Bluestock Week 2 Prerequisite Assignment
+
+## 1. Introduction
+
+HDFC Bank Limited is one of India's major private-sector banks. It accepts deposits, provides loans, offers payment services, and earns income from banking operations.
+
+## 2. Key Financial Figures
+
+| Financial Indicator | FY 2025–26 |
+|---|---:|
+| Net Revenue | ₹1,91,218.6 crore |
+| Profit After Tax | ₹74,671.3 crore |
+| Total Balance Sheet Size | ₹43,64,886 crore |
+| Total Deposits | ₹31,05,251 crore |
+| Advances | ₹29,37,166 crore |
+| Net Interest Margin | 3.34% |
+
+Source: HDFC Bank Integrated Annual Report 2025–26.
+
+## 3. Profit and Loss Analysis
+
+The bank reported net revenue of ₹1,91,218.6 crore and profit after tax of ₹74,671.3 crore. Profit after tax increased by approximately 10.9% compared with FY 2024–25.
+
+This indicates an increase in reported annual profit. Analysts should also examine interest expenses, operating costs, loan-loss provisions, and asset quality to understand the reasons behind the change.
+
+## 4. Balance Sheet Analysis
+
+The bank's total balance sheet size increased by 11.6% to ₹43,64,886 crore. Deposits increased by 14.4% to ₹31,05,251 crore, while advances increased by 12.1% to ₹29,37,166 crore.
+
+Deposits represent money placed by customers with the bank. Advances represent loans and other credit extended by the bank. Both are important indicators of banking activity.
+
+## 5. Cash Flow Statement
+
+A bank's cash flow statement reports cash movements from operating, investing, and financing activities. These figures help analysts understand liquidity and cash management.
+
+The exact cash flow figures should be taken from the official annual report before drawing conclusions.
+
+## 6. Important Banking Ratio
+
+Net Interest Margin (NIM) was 3.34% in FY 2025–26. NIM measures the difference between interest earned on interest-earning assets and interest paid on borrowings and deposits, relative to average earning assets under the applicable reporting methodology.
+
+Other important measures include Return on Assets (ROA), Return on Equity (ROE), Gross Non-Performing Assets (GNPA), Net Non-Performing Assets (NNPA), and Capital Adequacy Ratio (CAR).
+
+## 7. Conclusion
+
+HDFC Bank reported higher annual profit, growth in deposits, and growth in advances during FY 2025–26. These figures provide useful information about its business scale and performance.
+
+A complete assessment should also consider operating expenses, credit quality, capital adequacy, cash flows, and comparisons with previous years.
+
+**Disclaimer:** This report is for educational purposes only and is not investment advice.
+
+**Reference:** HDFC Bank official Investor Relations — Integrated Annual Report 2025–26.
