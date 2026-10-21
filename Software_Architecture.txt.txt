@@ -1,0 +1,41 @@
+# Software Architecture — Stock Market Data Project
+
+## Architecture Flow
+
+User
+↓
+Python Script
+↓
+REST API Request
+↓
+JSON Response
+↓
+Python Data Processing
+↓
+CSV File (api_data.csv)
+↓
+Excel / Data Analysis
+
+## Components
+
+1. **User:** Starts the Python script.
+2. **Python Script:** Sends a request to the API.
+3. **REST API:** Provides sample data in JSON format.
+4. **Data Processing:** Python reads the JSON response and organizes the records.
+5. **CSV Output:** The processed data is saved in a CSV file.
+6. **Excel:** The CSV file can be opened for inspection and analysis.
+
+## Technologies Used
+
+- Python
+- Requests library
+- REST API
+- JSON
+- CSV
+- Microsoft Excel
+
+## API Endpoint
+
+https://jsonplaceholder.typicode.com/posts
+
+**Note:** This is a sample API project for learning data extraction. It does not provide real stock market data.
